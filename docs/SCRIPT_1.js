@@ -5,6 +5,7 @@ const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyYCBXJeRrYiE4patEIg
 // Variables globales
 let chartServicios, chartMensual, chartEvolucion, chartPresupuestos, chartReportes;
 let datosGastos = [];
+
 let serviciosConfig = [];
 let filtrosActivos = {
     servicio: '',
