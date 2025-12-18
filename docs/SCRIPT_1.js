@@ -1,6 +1,6 @@
 // URL del Google Apps Script Web App
 // REEMPLAZA CON LA URL DE TU WEB APP DESPLEGADA
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyYCBXJeRrYiE4patEIgtz4Li9jPK1iAtJxCvJX9j7BJYAY46YggOp3OwZuJga721IG/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxCsli80Hm3nWjJvscAoe1Pi_Z7W704d_qMXkutZbGdgczWvV9xtMx-32DOK4BoXc3Iag/exec';
 
 // Variables globales
 let chartServicios, chartMensual, chartEvolucion, chartPresupuestos, chartReportes;
