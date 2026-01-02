@@ -3,7 +3,7 @@
 // ==============================================
 
 // ID DE TU HOJA DE CÁLCULO (REEMPLAZAR)
-const SPREADSHEET_ID = "1ATe-WceqLHvS9Ge9vLET-FqAZRNL4NAF8AG9IwjO0e0";
+const SPREADSHEET_ID = "COLOCA TU ID DE TU HOJA DE CALCULO";
 
 // Nombres de las pestañas
 const HOJA_GASTOS = "GASTOS";
